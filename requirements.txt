@@ -1,0 +1,44 @@
+
+# Advanced Network Anomaly Detection System - Dependencies
+# 
+# This file lists all the Python packages required for the system to function properly.
+# Dependencies are automatically managed by Replit, but this provides reference information.
+
+# Core Web Framework
+flask==3.0.0
+gunicorn==21.2.0
+
+# Data Processing and Analysis
+pandas==2.1.4
+numpy==1.24.3
+
+# Machine Learning and AI
+scikit-learn==1.3.2
+xgboost==2.0.3
+lightgbm==4.1.0
+
+# Network Analysis and Packet Capture
+scapy==2.5.0
+networkx==3.2.1
+
+# AI Integration for Advanced Threat Analysis
+google-genai==0.3.0
+
+# Database Support
+psycopg2-binary==2.9.9
+
+# Additional Utilities
+email-validator==2.1.0
+
+# Built-in Python modules used (no installation required):
+# - sqlite3 (database operations)
+# - threading (concurrent processing)
+# - logging (system logging)
+# - json (configuration and data handling)
+# - time, datetime (timing operations)
+# - os, sys (system operations)
+# - hashlib (cryptographic operations)
+# - collections (data structures)
+# - re (regular expressions)
+# - ipaddress (IP address handling)
+# - traceback (error handling)
